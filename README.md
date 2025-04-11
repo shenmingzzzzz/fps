@@ -1,2 +1,2 @@
-# bird
-复现b站Bird
+# fps
+复现b站fps
